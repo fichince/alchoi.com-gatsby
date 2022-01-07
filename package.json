@@ -83,5 +83,8 @@
     "clean": "gatsby clean",
     "tsc": "tsc",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "engines": {
+    "node": ">=14.15.0"
   }
 }
