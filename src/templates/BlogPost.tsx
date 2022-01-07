@@ -1,3 +1,4 @@
+/*
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 import { MDXRenderer } from "gatsby-plugin-mdx"
@@ -95,3 +96,5 @@ export const pageQuery = graphql`
     }
   }
 `
+
+*/
