@@ -11,7 +11,7 @@ const BlogPost = (props) => {
   return (
     <Layout>
       <div className="mt-3 sm:mt-7 mx-auto text-3xl sm:text-5xl text-center">
-        {title}
+        <MDXRenderer>{title}</MDXRenderer>
       </div>
       <hr className="my-4 mx-auto w-full sm:w-3/4 text-center" />
 
@@ -20,7 +20,7 @@ const BlogPost = (props) => {
         <div className="w-full sm:w-1/3 sm:mr-4 sm:ml-2
           text-left sm:text-right">
           <div className="mb-2">
-            {description}
+            <MDXRenderer>{description}</MDXRenderer>
           </div>
           <div className="italic">
             {date}
