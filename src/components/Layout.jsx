@@ -1,6 +1,21 @@
 import * as React from 'react'
 import { Link, useStaticQuery, graphql } from 'gatsby'
 
+const NAV = [
+  {
+    name: 'Home',
+    to: '/'
+  },
+  {
+    name: 'Blog',
+    to: '/blog'
+  },
+  {
+    name: 'Writing',
+    to: '/writing'
+  },
+];
+
 const Layout = ({ pageTitle, children }) => {
   const data = useStaticQuery(graphql`
     query {
@@ -15,28 +30,23 @@ const Layout = ({ pageTitle, children }) => {
   return (
     <div className="m-auto">
       <title>{pageTitle} | {data.site.siteMetadata.title}</title>
-      <header className="text-lg">{data.site.siteMetadata.title}</header>
-      <nav>
-        <ul>
-          <li>
-            <Link to="/">
-              Home
-            </Link>
-          </li>
-          <li>
-            <Link to="/about">
-              About
-            </Link>
-          </li>
-          <li>
-            <Link to="/blog">
-              Blog
-            </Link>
-          </li>
-        </ul>
-      </nav>
-      <main>
-        <h1 className="text-xl">{pageTitle}</h1>
+
+      <div className="flex justify-between align-baseline
+          bg-black text-white p-3">
+        <header className="text-lg">{data.site.siteMetadata.title}</header>
+        <nav>
+          <ul className="flex">
+            { NAV.map((n, i) => (
+              <li index={i} className="ml-5">
+                <Link to={n.to}>
+                  {n.name}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      </div>
+      <main className="p-5 pb-20">
         {children}
       </main>
     </div>
