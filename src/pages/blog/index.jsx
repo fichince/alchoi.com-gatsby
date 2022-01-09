@@ -10,6 +10,7 @@ import join from 'lodash/fp/join';
 import take from 'lodash/fp/take';
 import drop from 'lodash/fp/drop';
 import { MDXRenderer } from 'gatsby-plugin-mdx';
+import MD from '../../components/common/MD';
 
 const BlogCard = (props) => {
   const { node: { slug, frontmatter, date } } = props;
@@ -22,12 +23,12 @@ const BlogCard = (props) => {
       ">
       <Link to={`/blog/${date}-${slug}`}>
         <div className="text-xl">
-          <MDXRenderer>{title}</MDXRenderer>
+          <MD md={title} />
         </div>
       </Link>
       <hr className="bg-slate-600 my-1" />
       <div className="text-sm prose">
-        <MDXRenderer>{description}</MDXRenderer>
+        <MD md={description} />
       </div>
       <div className="text-sm mt-3 italic">
         {date}
