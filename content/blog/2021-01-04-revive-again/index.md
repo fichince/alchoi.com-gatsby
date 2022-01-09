@@ -5,7 +5,7 @@ description: Hello again! (again)
 date: 2021-01-04
 ---
 
-It's kind of embarassing, looking back at this [previous post]({% post_url 2017-03-31-revive %}). It sounded like I was arriving somewhere, where in fact, those "big changes in my life" just kept rolling. I got married, got a dog, moved house, changed jobs (twice). Where I've landed is a place where I've seen my creative output trail off, enough to miss it, enough to want to return to it.
+It's kind of embarassing, looking back at this [previous post](../2017-03-31-revive). It sounded like I was arriving somewhere, where in fact, those "big changes in my life" just kept rolling. I got married, got a dog, moved house, changed jobs (twice). Where I've landed is a place where I've seen my creative output trail off, enough to miss it, enough to want to return to it.
 
 I'll start off by describing the journey that my online presence has taken. I started this blog in 2004, publishing on a Blogger.com site called "A Logical Waste of Space," which was shared with friend of mine. (His stuff is [still there](https://logicalwaste.blogspot.com).)
 

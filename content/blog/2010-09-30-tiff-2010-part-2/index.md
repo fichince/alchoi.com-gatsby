@@ -17,7 +17,7 @@ Another Chinese martial arts fantasy, but was short on the martial arts. It used
 
 	- _The Chef:_ After having seen each of the three segments, I realized that the Chef portions struck the right balance between humor and seriousness. This storyline wrapped up nicely, but then we had to go back to...
 
-- 	_The Butcher:_ Did I mention he was annoying?  
+- _The Butcher:_ Did I mention he was annoying?  
   
 **2 out of 5**  
   

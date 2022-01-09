@@ -28,7 +28,7 @@ const BlogPost = (props) => {
           </div>
         </div>
         <hr className="my-4" />
-        <article className="prose">
+        <article className="prose flex-grow">
           <MDXRenderer>
             {body}
           </MDXRenderer>

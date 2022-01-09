@@ -7,7 +7,7 @@ date: 2008-05-24
 
 Got the statement from my corporate credit card. It made me feel good.  
   
-![creditcard](/assets/images/creditcard.png)  
+![creditcard](./creditcard.png)
 
 ONE BILLION DOLLARS...  
   

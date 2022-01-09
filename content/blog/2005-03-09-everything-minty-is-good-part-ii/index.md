@@ -11,4 +11,4 @@ Why is this even necessary? The ideas of pills is that you swallow them. Do they
   
 I'm getting pretty tired of this notion that everything has to be minty. The only things that should be minty are mouthwash, breath drops, toothpaste and other oral hygiene products. I don't want to eat it, I don't want to drink it, I don't want to wash my hair with it. Just take your mint and keep it to yourself, thank you.  
   
-(This is a sequel to [another post]({% post_url 2004-12-17-everything-minty-is-good %}))
+(This is a sequel to [another post](./2004-12-17-everything-minty-is-good))

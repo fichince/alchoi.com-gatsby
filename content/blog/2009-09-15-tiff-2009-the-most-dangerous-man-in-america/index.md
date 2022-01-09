@@ -12,5 +12,5 @@ On the negative side, I thought they overdid the portrayal of Nixon as a bad, _b
   
 **3.5 out of 5**
 
-[^1]: My volunteer reward vouchers give access to these insider screenings that are not available to the public--a very nice perk. As an aside, P&I screenings are a completely different experience compared to public screenings. Everybody is there to work, not necessarily to "enjoy" the film, so it's totally lacking in energy. For example, [_Suck_]({% post_url 2009-09-15-tiff-2009-suck %}) was also a press screening, and I heard maybe two people laughing. I'm sure that there would have been a much bigger reaction at a public show.
+[^1]: My volunteer reward vouchers give access to these insider screenings that are not available to the public--a very nice perk. As an aside, P&I screenings are a completely different experience compared to public screenings. Everybody is there to work, not necessarily to "enjoy" the film, so it's totally lacking in energy. For example, [_Suck_](../2009-09-15-tiff-2009-suck) was also a press screening, and I heard maybe two people laughing. I'm sure that there would have been a much bigger reaction at a public show.
 
