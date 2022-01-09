@@ -10,8 +10,7 @@ const BlogCard = (props) => {
   return (
     <div className="border-2 rounded-md border-gray-500 
       w-full sm:w-1/2
-      m-3 p-5
-      ">
+      m-3 p-5">
       <Link to={`/blog/${slug}`}>
         <div className="text-xl">
           <MD md={title} />
@@ -33,7 +32,7 @@ const Blog = (props) => {
   const { data: { allMdx: { nodes } } } = props;
 
   return (
-    <Layout pageTitle="Blog">
+    <Layout>
       <div className="flex flex-col items-center">
         { nodes.map((node) => <BlogCard key={node.id} node={node} />) }
       </div>

@@ -1,5 +1,6 @@
 import * as React from 'react'
 import { Link, useStaticQuery, graphql } from 'gatsby'
+import MD from './common/MD';
 
 const NAV = [
   {
@@ -47,6 +48,14 @@ const Layout = ({ pageTitle, children }) => {
         </nav>
       </div>
       <main className="p-5 pb-20">
+        { pageTitle &&
+        <>
+          <div className="mt-3 sm:mt-7 mx-auto text-3xl sm:text-5xl text-center">
+            <MD md={pageTitle} />
+          </div>
+          <hr className="my-4 mx-auto w-full sm:w-3/4 text-center" />
+        </>
+        }
         {children}
       </main>
     </div>

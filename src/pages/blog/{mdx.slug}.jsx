@@ -10,11 +10,7 @@ const BlogPost = (props) => {
   const { title, description, date } = frontmatter;
 
   return (
-    <Layout>
-      <div className="mt-3 sm:mt-7 mx-auto text-3xl sm:text-5xl text-center">
-        <MD md={title} />
-      </div>
-      <hr className="my-4 mx-auto w-full sm:w-3/4 text-center" />
+    <Layout pageTitle={title}>
 
       <div className="mx-auto flex flex-col w-full
         sm:flex-row sm:w-3/4 ">
