@@ -1,4 +1,5 @@
 import * as React from 'react'
+import { Helmet } from 'react-helmet';
 import { Link, useStaticQuery, graphql } from 'gatsby'
 import MD from './common/MD';
 
@@ -30,7 +31,9 @@ const Layout = ({ pageTitle, children }) => {
 
   return (
     <div className="m-auto">
-      <title>{pageTitle} | {data.site.siteMetadata.title}</title>
+      <Helmet>
+        <body className="bg-gradient-to-br from-primary to-secondary min-h-screen" /> 
+      </Helmet>
 
       <div className="flex justify-between align-baseline
           bg-black text-white p-3">
@@ -50,10 +53,10 @@ const Layout = ({ pageTitle, children }) => {
       <main className="p-5 pb-20">
         { pageTitle &&
         <>
-          <div className="mt-3 sm:mt-7 mx-auto text-3xl sm:text-5xl text-center">
+          <div className="mt-3 sm:mt-7 mx-auto text-3xl sm:text-5xl text-center text-accent font-display">
             <MD md={pageTitle} />
           </div>
-          <hr className="my-4 mx-auto w-full sm:w-3/4 text-center" />
+          <hr className="my-4 mx-auto w-full sm:w-3/4 text-center border-accent" />
         </>
         }
         {children}

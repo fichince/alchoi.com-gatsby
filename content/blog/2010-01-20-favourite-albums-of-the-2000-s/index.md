@@ -22,7 +22,6 @@ Seems like everyone is doing this, so I'm jumping on the bandwagon. Here goes...
 3. _Person Pitch_ - Panda Bear (2007)  
 2. _Kid A_ - Radiohead (2000)  
 1. _Ágætis Byrjun_ - Sigur Rós (2000)  
-{: reversed="reversed"}
   
 **Bonus List - Favourite Songs That Aren't on the Aforementioned Albums**  
 

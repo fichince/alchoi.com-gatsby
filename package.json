@@ -20,6 +20,8 @@
     "blog"
   ],
   "dependencies": {
+    "@fontsource/crimson-pro": "^4.5.1",
+    "@fontsource/special-elite": "^4.5.0",
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.3",
     "@mdx-js/mdx": "^1.6.22",

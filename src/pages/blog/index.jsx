@@ -8,21 +8,25 @@ const BlogCard = (props) => {
   const { title, description, date } = frontmatter;
 
   return (
-    <div className="border-2 rounded-md border-gray-500 
+    <div className="border rounded-md border-gray-500 
+      shadow-lg
       w-full sm:w-1/2
-      m-3 p-5">
+      m-3 p-5
+      bg-gradient-to-tl from-primary to-secondary
+      hover:scale-y-105
+      transition-all">
       <Link to={`/blog/${slug}`}>
-        <div className="text-xl">
+        <div className="text-xl text-accent font-display">
           <MD md={title} />
         </div>
+        <hr className="border-accent" />
+        <div className="text-accent font-body">
+          <MD md={description} />
+        </div>
+        <div className="text-sm mt-3 font-body text-accent">
+          {date}
+        </div>
       </Link>
-      <hr className="bg-slate-600 my-1" />
-      <div className="text-sm prose">
-        <MD md={description} />
-      </div>
-      <div className="text-sm mt-3 italic">
-        {date}
-      </div>
     </div>
   );
 };
