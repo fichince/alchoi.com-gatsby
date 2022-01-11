@@ -13,9 +13,9 @@ const Piece = (props) => {
       m-3 p-6 w-72
       justify-self-center self-center
       flex flex-col items-center
-      bg-gradient-to-tl from-primary to-secondary
+      bg-tertiary
       hover:scale-y-105 transition-all">
-      <div className="mb-1">
+      <div className="mb-3">
         <a href={url} rel="noopener noreferrer" target="_blank">
           <GatsbyImage image={getImage(image)}/>
         </a>

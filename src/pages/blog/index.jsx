@@ -12,18 +12,18 @@ const BlogCard = (props) => {
       shadow-lg
       w-full sm:w-1/2
       m-3 p-5
-      bg-gradient-to-tl from-primary to-secondary
+      bg-tertiary
       hover:scale-y-105
       transition-all">
       <Link to={`/blog/${slug}`}>
-        <div className="text-xl text-accent font-display">
+        <div className="text-2xl text-accent font-display">
           <MD md={title} />
         </div>
-        <hr className="border-accent" />
-        <div className="text-accent font-body">
+        <hr className="border-accent my-3" />
+        <div className="text-accent font-display text-lg">
           <MD md={description} />
         </div>
-        <div className="text-sm mt-3 font-body text-accent">
+        <div className="uppercase text-base mt-3 font-display text-accent">
           {date}
         </div>
       </Link>

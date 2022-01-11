@@ -12,9 +12,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#D9DCD1',
+        primary: '#C6CAB9',
         secondary: '#CCCBCD',
-        accent: '#2A394F',
+        tertiary: colors.gray[300],
+        accent: '#1C2635',
       },
       fontFamily: {
         display: ['Special Elite', 'serif'],
@@ -24,7 +25,8 @@ module.exports = {
         neutral: {
           css: {
             '--tw-prose-hr': theme('colors.accent'),
-            '--tw-prose-quote-borders': theme('colors.accent')
+            '--tw-prose-quote-borders': theme('colors.accent'),
+            '--tw-prose-bullets': theme('colors.accent'),
           }
         }
       }),
