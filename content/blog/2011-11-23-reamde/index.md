@@ -23,6 +23,6 @@ Let me contrast this with the way Stephenson treated action in his earlier work.
   
 > After that--after Hiro gets onto his motorcycle, and the New South Africans get into their all-terrain pickups, and The Enforcers get into their slick black Enforcer mobiles, and they all go screaming out onto the highway--after that it’s just a chase scene.
   
-To me, this is a very clever way to jump forward in time. The narrator is breaking the fourth wall and telling the audience, “We all know what a chase scene is, so let’s not dwell on it.” Now, imagine replacing this line with 200+ pages of actually describing all the things that happen in the chase scene and you have Reamde.  
+To me, this is a very clever way to jump forward in time. The narrator is breaking the fourth wall and telling the audience, “We all know what a chase scene is, so let’s not dwell on it.” Now, imagine replacing this line with 200+ pages of actually describing all the things that happen in the chase scene and you have _Reamde_.  
   
 To sum up, I still did enjoy Stephenson’s writing style and humour, but it went on way too long. Too much action and plot, not enough ideas. I’ve pretty much read all of his books more than once, but I don’t see myself coming back to _Reamde_ anytime soon.
