@@ -8,7 +8,7 @@ const BlogCard = (props) => {
   const { title, description, date } = frontmatter;
 
   return (
-    <div className="border rounded-md border-gray-500 
+    <div className="rounded-md
       shadow-lg
       w-full sm:w-1/2
       m-3 p-5
@@ -20,11 +20,9 @@ const BlogCard = (props) => {
           <MD md={title} />
         </div>
         <hr className="border-accent my-3" />
-        <div className="text-accent font-display text-lg">
+        <div className="flex justify-between text-accent font-body items-baseline">
           <MD md={description} />
-        </div>
-        <div className="uppercase text-base mt-3 font-display text-accent">
-          {date}
+          <span className="min-w-fit">{date}</span>
         </div>
       </Link>
     </div>

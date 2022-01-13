@@ -8,7 +8,7 @@ const Piece = (props) => {
   const { node: { title, description, image, url } } = props;
 
   return (
-    <article className="border rounded-md border-gray-500 
+    <article className="rounded-md
       shadow-lg
       m-3 p-6 w-72
       justify-self-center self-center
