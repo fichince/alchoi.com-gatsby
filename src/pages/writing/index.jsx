@@ -43,7 +43,7 @@ const Writing = (props) => {
       </div>
 
       <section className="w-full sm:w-2/3 mx-auto
-        grid grid-cols-1 sm:grid-cols-3 gap-3">
+        grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-3">
         { nodes.map((node) => <Piece key={node.id} node={node} />) }
       </section>
     </Layout>

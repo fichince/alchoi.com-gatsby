@@ -79,7 +79,7 @@ const Layout = ({ pageTitle, children, ...rest }) => {
         }
       </nav>
 
-      <main className="pt-10 pb-20">
+      <main className="pt-10 pb-20 px-5">
         { pageTitle &&
         <>
           <div className="mt-3 sm:mt-5 mx-auto text-3xl sm:text-5xl text-center text-accent font-display">
