@@ -30,6 +30,20 @@ module.exports = {
           }
         }
       }),
+      keyframes: {
+        'fade-in': {
+          '0%': { opacity: 0, scale: '150%' },
+          '100%': { opacity: 1, scale: '100%' },
+        },
+        'blur-in': {
+          '0%': { filter: 'grayscale(100%)' },
+          '100%': { filter: 'grayscale(0%) blur(4px)' },
+        }
+      },
+      animation: {
+        'fade-in': 'fade-in 2s ease-in-out',
+        'blur-in': 'blur-in 6s ease-in-out',
+      }
     },
   },
   variants: {
