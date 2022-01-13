@@ -38,7 +38,9 @@ const Layout = ({ pageTitle, children, ...rest }) => {
   `);
   const { site: { siteMetadata: { title } } } = data;
 
-  const [ expanded, setExpanded ] = React.useState(window.innerWidth > 640);
+  const isServer = typeof window === 'undefined';
+
+  const [ expanded, setExpanded ] = React.useState(isServer ? true : window.innerWidth > 640);
   React.useEffect(() => {
     const resizeHandler = () => {
       setExpanded(window.innerWidth > 640);

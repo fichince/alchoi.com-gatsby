@@ -1,16 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Blog Starter`,
+    title: `Albert Choi`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Albert Choi`,
+      summary: `I write code and sometimes prose.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Albert Choi's personal website`,
+    siteUrl: `https://alchoi.com`,
     social: {
-      twitter: `kylemathews`,
-      linkedin: `kylemathews`,
-      github: `KyleAMathews`,
+      github: `fichince`, // https://github.com/fichince
+      facebook: `albert.choi.583`, // https://www.facebook.com/albert.choi.583/
+      linkedin: `albert-choi-202b8923`, // https://www.linkedin.com/in/albert-choi-202b8923/
     },
   },
   plugins: [
@@ -62,12 +62,12 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+         trackingId: `G-5TB0SNLRPM`,
+      },
+    },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -122,23 +122,7 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `A blog by Sridatta`,
-        short_name: `GatsbyJS`,
-        start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
-      },
-    },
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-gatsby-cloud`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
     `gatsby-transformer-yaml`,
   ],
 
