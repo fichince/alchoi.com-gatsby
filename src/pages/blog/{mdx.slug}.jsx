@@ -13,10 +13,10 @@ const BlogPost = (props) => {
     <Layout pageTitle={title}>
 
       <div className="mx-auto flex flex-col w-full
-        md:flex-row md:w-3/4">
+        lg:flex-row lg:w-3/4">
 
-        <div className="w-full md:w-1/3 md:mr-4 md:ml-2
-          text-center md:text-right md:pr-10">
+        <div className="w-full lg:w-1/3 lg:mr-4 lg:ml-2
+          text-center lg:text-right lg:pr-10">
           <div className="mb-2 font-display text-accent text-2xl">
             <MD md={description} />
           </div>

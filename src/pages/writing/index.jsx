@@ -10,25 +10,27 @@ const Piece = (props) => {
   return (
     <article className="rounded-md
       shadow-lg
-      m-3 p-6 w-72
+      m-3 p-6 w-full
       justify-self-center self-center
-      flex flex-col items-center
-      bg-tertiary
+      flex flex-col sm:flex-row 
+      items-center bg-tertiary
       hover:scale-y-105 transition-all">
-      <div className="mb-3">
+      <div className="mb-3 sm:mb-0 sm:mr-5">
         <a href={url} rel="noopener noreferrer" target="_blank">
           <GatsbyImage image={getImage(image)}/>
         </a>
       </div>
 
-      <div className="text-xl mb-1 font-display">
-        <a href={url} rel="noopener noreferrer" target="_blank">
-          {title}
-        </a>
-      </div>
+      <div className="text-center">
+        <div className="text-xl sm:text-2xl lg:text-3xl mb-1 font-display">
+          <a href={url} rel="noopener noreferrer" target="_blank">
+            {title}
+          </a>
+        </div>
 
-      <div className="text-sm">
-        <MD md={description} />
+        <div className="text-sm">
+          <MD md={description} />
+        </div>
       </div>
     </article>
   );
@@ -42,8 +44,8 @@ const Writing = (props) => {
         I spend some of my spare time writing fiction and the occasional non-fiction piece. Here are some links to my published works.
       </div>
 
-      <section className="w-full sm:w-2/3 mx-auto
-        grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-3">
+      <section className="w-full sm:w-10/12 mx-auto
+        flex flex-col">
         { nodes.map((node) => <Piece key={node.id} node={node} />) }
       </section>
     </Layout>

@@ -7,6 +7,10 @@
   "dependencies": {
     "@fontsource/crimson-pro": "^4.5.1",
     "@fontsource/special-elite": "^4.5.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.3",
     "@mdx-js/mdx": "^1.6.22",
@@ -16,6 +20,7 @@
     "framer-motion": "^4.1.17",
     "gatsby": "^4.4.0",
     "gatsby-plugin-feed": "^4.4.0",
+    "gatsby-plugin-fontawesome-css": "^1.2.0",
     "gatsby-plugin-google-analytics": "^4.4.0",
     "gatsby-plugin-image": "^2.4.0",
     "gatsby-plugin-mdx": "^3.4.0",

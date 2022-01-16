@@ -124,6 +124,7 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-yaml`,
+    `gatsby-plugin-fontawesome-css`,
   ],
 
 }
