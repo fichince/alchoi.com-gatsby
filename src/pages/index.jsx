@@ -11,7 +11,7 @@ const Home = (props) => {
       </div>
       <div className="absolute 
         top-1/4 left-1/4 
-        w-1/2 h-1/2 
+        w-1/2 h-1/2 min-h-[450px]
         m-auto 
         bg-gradient-to-br from-primary to-secondary rounded-3xl
         animate-fade-in">
