@@ -21,7 +21,7 @@ const Piece = (props) => {
         </a>
       </div>
 
-      <div className="text-center">
+      <div className="text-center flex-grow">
         <div className="text-xl sm:text-2xl lg:text-3xl mb-1 font-display">
           <a href={url} rel="noopener noreferrer" target="_blank">
             {title}
