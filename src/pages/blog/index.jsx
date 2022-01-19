@@ -34,7 +34,7 @@ const Blog = (props) => {
   const { data: { allMdx: { nodes } } } = props;
 
   return (
-    <Layout>
+    <Layout titleBar="Blog">
       <div className="flex flex-col items-center">
         { nodes.map((node) => <BlogCard key={node.id} node={node} />) }
       </div>
