@@ -1,11 +1,19 @@
-import * as React from "react"
-import { Link } from "gatsby"
+import * as React from "react";
+import { graphql, Link } from "gatsby";
+import { Helmet } from 'react-helmet';
 import headshot from '../images/headshot.jpg';
 import { faGithubSquare, faFacebookSquare, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const Home = (props) => {
+
+  const { site: { siteMetadata: { title } } } = props.data;
+
   return (
+    <>
+    <Helmet>
+      <title>{title}</title>
+    </Helmet>
     <div className="absolute top-0 left-0 w-screen h-screen overflow-hidden">
       <div className="homepage w-full h-full bg-cover scale-110 animate-blur-in blur-sm">
       </div>
@@ -63,7 +71,18 @@ const Home = (props) => {
         </div>
       </div>
     </div>
+    </>
   );
 };
 
 export default Home;
+
+export const query = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+  }
+`;
