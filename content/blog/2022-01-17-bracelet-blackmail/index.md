@@ -2,12 +2,12 @@
 layout: post
 title: Bracelet Blackmail
 description: Tales of Commerce from the Far East
-date: 2021-01-14
+date: 2022-01-14
 ---
 
-_I wrote this piece circa 2012, after I took a trip to several countries in Asia. I was never able to get it published, so I figured I might as well post it here. I was reminded of it while reading a book by Jan Wong called_ [Beijing Confidential: A Tale of Comrades Lost and Found in the New Forbidden City](https://app.thestorygraph.com/books/b956c14d-b0d7-464f-9d26-2fad12e37dce). _This piece feels to me like a less polished, smaller version of Wong's book, down to the slightly huffy subtitle._
+_I wrote this piece circa 2012, after I took a trip to several countries in Asia. I was never able to get it published, so I figured I might as well post it here. I was reminded of it while reading a book by Jan Wong called_ [Beijing Confidential: A Tale of Comrades Lost and Found in the New Forbidden City][1]. _This piece feels to me like a less polished, smaller version of Wong's book, down to the slightly huffy subtitle._
 
-_I'm a bit conflicted about the tone of both this essay and_ Beijing Confidential_, about which more later._
+_I'm a bit conflicted about the tone of both this essay and_ Beijing Confidential_, about which more [later][2]._
 
 ---
 
@@ -117,3 +117,6 @@ Armed with this knowledge, I could sell you the idea that my decision not to buy
 
 As for the bracelet itself, I forgot to pack it when I checked out of the hotel. When I last saw it, it was sitting beside the bathroom sink, soaking in a puddle of soapy water, an abandoned souvenir.
 
+
+[1]:	https://app.thestorygraph.com/books/b956c14d-b0d7-464f-9d26-2fad12e37dce
+[2]:	../2022-01-20-beijing-confidential

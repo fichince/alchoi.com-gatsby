@@ -13,16 +13,14 @@ What it adds up to is an experience that I rarely have with books: that of being
 
 Truly one of my favourite books.
 
----
+[^1]:	I had taken it to a dragon boat competition in London, Ontario, as reading material between races, but unfortunately, the weather that day was humid and grey, and the rain soaked through my backpack and into the book, swelling it up like a sponge. The ruined copy had a black cover; its replacement was red. Or maybe vice versa.
 
-[^1]: I had taken it to a dragon boat competition in London, Ontario, as reading material between races, but unfortunately, the weather that day was humid and grey, and the rain soaked through my backpack and into the book, swelling it up like a sponge. The ruined copy had a black cover; its replacement was red. Or maybe vice versa.
+[^2]:	Beyoncé’s “Irreplaceable.”
 
-[^2]: Beyoncé’s “Irreplaceable.”
+[^3]:	Hollywood Video at the Pruneyard Shopping Centre, Campbell, CA. I was renting a DVD to watch in the hotel, and was holding the book in my hand. I put it down on the counter to retrieve my wallet, and the clerk said, “Well, that’s a big book.” The video store has now closed down, replaced by something called “Sports Basement,” which has swallowed up the huge space left vacant by the video store, and also, sadly, by a defunct Barnes & Noble bookstore.
 
-[^3]: Hollywood Video at the Pruneyard Shopping Centre, Campbell, CA. I was renting a DVD to watch in the hotel, and was holding the book in my hand. I put it down on the counter to retrieve my wallet, and the clerk said, “Well, that’s a big book.” The video store has now closed down, replaced by something called “Sports Basement,” which has swallowed up the huge space left vacant by the video store, and also, sadly, by a defunct Barnes & Noble bookstore.
+[^4]:	The trip was for business purposes.
 
-[^4]: The trip was for business purposes.
+[^5]:	I was perhaps afraid of rain ruining yet another copy.
 
-[^5]: I was perhaps afraid of rain ruining yet another copy.
-
-[^6]: The whole concept of e-books, especially being available at the public library, would have been quite foreign back in 2006. As foreign as the concept of video stores is, now.
+[^6]:	The whole concept of e-books, especially being available at the public library, would have been quite foreign back in 2006. As foreign as the concept of video stores is, now.
