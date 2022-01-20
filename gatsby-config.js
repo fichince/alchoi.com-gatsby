@@ -125,6 +125,15 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-yaml`,
     `gatsby-plugin-fontawesome-css`,
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'Albert Choi',
+        short_name: 'Albert Choi',
+        start_url: '/',
+        icon: 'src/images/favicon.png'
+      }
+    }
   ],
 
 }

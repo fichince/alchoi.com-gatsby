@@ -1,7 +1,9 @@
-import * as React from 'react'
+import React, { useEffect, useState } from 'react'
 import { Helmet } from 'react-helmet';
 import { Link, useStaticQuery, graphql } from 'gatsby'
 import MD from './common/MD';
+import { remark } from 'remark';
+import stripMD from 'strip-markdown';
 
 const NAV = [
   {
@@ -26,7 +28,7 @@ const NavLink = (props) => {
   );
 };
 
-const Layout = ({ pageTitle, children, ...rest }) => {
+const Layout = ({ pageTitle, titleBar, children, ...rest }) => {
   const data = useStaticQuery(graphql`
     query {
       site {
@@ -36,12 +38,15 @@ const Layout = ({ pageTitle, children, ...rest }) => {
       }
     }
   `);
+
+  const [ titleBarText, setTitleBarText ] = useState(null);
+
   const { site: { siteMetadata: { title } } } = data;
 
   const isServer = typeof window === 'undefined';
 
   const [ expanded, setExpanded ] = React.useState(isServer ? true : window.innerWidth > 640);
-  React.useEffect(() => {
+  useEffect(() => {
     const resizeHandler = () => {
       setExpanded(window.innerWidth > 640);
     };
@@ -53,10 +58,21 @@ const Layout = ({ pageTitle, children, ...rest }) => {
     };
   }, []);
 
+  useEffect(() => {
+    remark()
+      .use(stripMD)
+      .process(titleBar)
+      .then((out) => {
+        setTitleBarText(out);
+      });
+
+  }, [ titleBar ]);
+
   return (
     <div className="m-auto">
       <Helmet>
         <body className="bg-gradient-to-br from-primary to-secondary min-h-screen" /> 
+        <title>{ titleBarText ? `${titleBarText} | ` : ''}{title}</title>
       </Helmet>
 
       <nav className="relative select-none bg-accent sm:flex sm:items-stretch w-full text-lg sm:text-xl">

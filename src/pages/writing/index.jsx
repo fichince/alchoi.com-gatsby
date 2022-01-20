@@ -39,7 +39,7 @@ const Piece = (props) => {
 const Writing = (props) => {
   const { data: { allWritingYaml: { nodes } } } = props;
   return (
-    <Layout pageTitle="Writing">
+    <Layout pageTitle="Writing" titleBar="Writing">
       <div class="mx-auto mb-6 text-center font-body text-lg">
         I spend some of my spare time writing fiction and the occasional non-fiction piece. Here are some links to my published works.
       </div>
