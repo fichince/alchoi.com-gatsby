@@ -2,7 +2,7 @@
 layout: post
 title:  "Review: _Beijing Confidential_ by Jan Wong"
 description: A Tale of Self-Discovery
-date: 2021-01-20
+date: 2022-01-20
 ---
 
 As a foreign exchange student at Beijing University during the Cultural Revolution, Jan Wong ratted out a classmate who expressed a treasonous desire to leave the country for the West. The classmate disappeared and Wong, driven by guilt, embarked on a mission to find her and make amends.
@@ -31,5 +31,5 @@ Now that time has passed, I'm ready to see their side of it. Yes, Mainland China
 So, when I read a book like _Beijing Confidential_, it feels like it represents a state of mind that I used to have, and that I’m trying to expand myself beyond. It makes me want to read a book that will put me in the shoes of someone who is not like me, someone who sees China as their home, and not a strange, foreign place.
 
 [1]:	https://app.thestorygraph.com/books/b956c14d-b0d7-464f-9d26-2fad12e37dce
-[2]:	../2021-01-17-bracelet-blackmail
+[2]:	../2022-01-17-bracelet-blackmail
 [3]:	https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests

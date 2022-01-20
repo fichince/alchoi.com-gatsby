@@ -2,7 +2,7 @@
 layout: post
 title:  "Review: _The Truffle Hunters_"
 description: Beware of Big Truffle
-date: 2021-01-05
+date: 2022-01-05
 ---
 
 [_The Truffle Hunters_][1] is a documentary film about a bunch of old dudes in Italy who work with dogs to find truffles[^1] buried in the ground, deep inside forests. As a dog lover, I envy the working relationship that these people have with their dogs. My dog is great, but she's never going to help me write any Javascript.

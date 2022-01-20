@@ -2,7 +2,7 @@
 layout: post
 title:  "Review: _Glorious Frazzled Beings_ by Angélique Lalonde"
 description: Positive or negative?
-date: 2021-01-09
+date: 2022-01-09
 ---
 
 When reading this short story collection, it helped me to be aware of the author's Indigenous background. (Her author bio page says that she lives in Gitxsan territory in British Columbia.) The stories themselves aren't necessarily explicit that their characters and themes come from that culture, and if I didn't know about the author's background, it might be easy to categorize them as "magical realism," because of the supernatural beings that inhabit them (e.g. ghosts, a boy with fox ears, a lady with a big head). But that genre classification seems a bit disrespectful to me, since it comes from literary academic theory. The book is more of an expression of the author's culture.
