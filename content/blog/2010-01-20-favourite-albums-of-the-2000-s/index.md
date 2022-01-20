@@ -7,29 +7,32 @@ date: 2010-01-20
 
 Seems like everyone is doing this, so I'm jumping on the bandwagon. Here goes...
 
-15. _Third_ - Portishead (2008)  
-14. _I'll Sleep When You're Dead_ - El-P (2007)  
-13. _The Earth is Not a Cold Dead Place_ - Explosions in the Sky (2003)  
-12. _Icky Thump_ - White Stripes (2007)  
-11. _Illinois_ - Sufjan Stevens (2005)  
-10. _Kill Bill: Volume 1 Original Soundtrack_ - Various Artists (2003)  
-9. _Finally We Are No One_ - múm (2002)  
-8. _Lift Your Skinny Fists Like Antennas to Heaven_ - Godspeed You! Black Emperor (2000)  
-7. _The Crane Wife_ - The Decemberists (2006)  
-6. _Vespertine_ - Björk (2001)  
-5. _Deltron 3030_ - Deltron 3030 (2000)  
-4. _In Rainbows_ - Radiohead (2007)  
-3. _Person Pitch_ - Panda Bear (2007)  
-2. _Kid A_ - Radiohead (2000)  
-1. _Ágætis Byrjun_ - Sigur Rós (2000)  
+<ol reversed="reversed">
+<li><em>Third</em> - Portishead (2008)</li>
+<li><em>I'll Sleep When You're Dead</em> - El-P (2007)</li>
+<li><em>The Earth is Not a Cold Dead Place</em> - Explosions in the Sky (2003)</li>
+<li><em>Icky Thump</em> - White Stripes (2007)</li>
+<li><em>Illinois</em> - Sufjan Stevens (2005)</li>
+<li><em>Kill Bill: Volume 1 Original Soundtrack</em> - Various Artists (2003)</li>
+<li><em>Finally We Are No One</em> - múm (2002)</li>
+<li><em>Lift Your Skinny Fists Like Antennas to Heaven</em> - Godspeed You! Black Emperor (2000)</li>
+<li><em>The Crane Wife</em> - The Decemberists (2006)</li>
+<li><em>Vespertine</em> - Björk (2001)</li>
+<li><em>Deltron 3030</em> - Deltron 3030 (2000)</li>
+<li><em>In Rainbows</em> - Radiohead (2007)</li>
+<li><em>Person Pitch</em> - Panda Bear (2007)</li>
+<li><em>Kid A</em> - Radiohead (2000)</li>
+<li><em>Ágætis Byrjun</em> - Sigur Rós (2000)</li>
+</ol>
   
-**Bonus List - Favourite Songs That Aren't on the Aforementioned Albums**  
+
+**Bonus List - Favourite Songs That Aren't on the Aforementioned Albums**
 
 In no particular order:
   
 - "Roscoe" - Midlake, _The Trials of Van Occupanther_ (2006)
 - "Paris is Burning" - St. Vincent, _Marry Me_ (2007)  
-- "Hoppípolla", "Glósóli" - Sigur Rós (2005)
+- "Hoppípolla", "Glósóli" - Sigur Rós, _Takk..._ (2005)
 - "There is a Number of Small Things" - múm, _Yesterday was Dramatic, Today is OK_ (2000)
 - "Jurass Finish First" - Jurassic 5, _Quality Control_ (2000)  
 - "Always For You" - The Album Leaf, _Into the Blue Again_ (2006)  
