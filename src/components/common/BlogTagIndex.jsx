@@ -1,18 +1,21 @@
-import React from 'react';
 import { graphql } from 'gatsby';
-import BlogPostIndex from '../../components/common/BlogPostIndex';
+import React from 'react';
+import BlogPostIndex from './BlogPostIndex';
 
-const Blog = (props) => {
+const BlogTagIndex = (props) => {
 
   const { data: { allMdx: { nodes } } } = props;
   return <BlogPostIndex nodes={nodes} />;
 };
 
-export default Blog;
+export default BlogTagIndex;
 
 export const query = graphql`
-  query {
-    allMdx(sort: {fields: frontmatter___date, order: DESC}) {
+  query ($tag: String) {
+    allMdx(
+      filter: {frontmatter: {tags: {in: [ $tag ]}}}
+      sort: {fields: frontmatter___date, order: DESC}
+    ) {
       nodes {
         slug
         id
