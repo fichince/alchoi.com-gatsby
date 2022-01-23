@@ -90,7 +90,7 @@ const Layout = ({ pageTitle, titleBar, children, ...rest }) => {
           <div className="sm:flex sm:items-stretch sm:flex-no-shrink sm:flex-grow">
             <div className="sm:flex sm:items-stretch sm:justify-end ml-auto">
             { NAV.map((n, i) => (
-              <NavLink to={n.to} name={n.name} />
+              <NavLink key={i} to={n.to} name={n.name} />
             ))}
             </div>
           </div>

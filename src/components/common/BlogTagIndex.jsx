@@ -4,8 +4,9 @@ import BlogPostIndex from './BlogPostIndex';
 
 const BlogTagIndex = (props) => {
 
+  const { pageContext: { tag } } = props;
   const { data: { allMdx: { nodes } } } = props;
-  return <BlogPostIndex nodes={nodes} />;
+  return <BlogPostIndex nodes={nodes} selectedTag={tag} />;
 };
 
 export default BlogTagIndex;

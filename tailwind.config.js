@@ -16,6 +16,7 @@ module.exports = {
         secondary: '#CCCBCD',
         tertiary: colors.gray[300],
         accent: '#1C2635',
+        pop: colors.red[800],
       },
       fontFamily: {
         display: ['Special Elite', 'serif'],

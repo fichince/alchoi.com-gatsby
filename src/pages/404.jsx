@@ -15,7 +15,7 @@ const NotFound = (props) => {
         <div className="text-orange-600 text-6xl md:text-9xl">
           <FontAwesomeIcon icon={faExclamationTriangle} />
         </div>
-        <div className="text-lg md:text-2xl text-red-800">
+        <div className="text-lg md:text-2xl text-pop">
           <Link to="/">Go back home</Link>
         </div>
       </div>
