@@ -3,6 +3,9 @@ layout: post
 title: 'TIFF 2011: Part 1'
 description: "_The Story of Film_, _The Moth Diaries_, _Mr. Tree_, _Among Us_, _The Loneliest Planet_"
 date: 2011-09-20
+tags:
+  - tiff
+  - movies
 ---
 
 TIFF is over and I’m only now starting to process all the films I saw. Over the next week or so, I’ll count down the movies that I saw, and give a short review of each one.  

@@ -3,6 +3,9 @@ layout: post
 title: "TIFF 2012: Part 2"
 description: "_Dead Europe_, _The Sessions_, _The Girl from the South_"
 date: 2012-09-12
+tags:
+  - tiff
+  - movies
 ---
 
 # [_Dead Europe_](http://www.imdb.com/title/tt2091880/)

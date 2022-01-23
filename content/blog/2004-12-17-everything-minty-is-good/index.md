@@ -3,6 +3,8 @@ layout: post
 title: Everything minty is good
 description: Wake me up
 date: 2004-12-17
+tags:
+  - fun
 ---
 
 Yesterday I washed my hair with this newfangled Head & Shoulders shampoo called "Refresh". It's basically shampoo with mint, and it supposedly creates a refreshing, "wake-me-up" feeling. To me, it felt like washing my hair with Vicks VapoRub while eating a Halls and brushing my teeth at the same time. I was coughing and sputtering and my eyes were stinging... a generally unpleasant experience.  

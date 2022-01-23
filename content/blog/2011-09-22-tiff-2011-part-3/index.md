@@ -3,6 +3,9 @@ layout: post
 title: 'TIFF 2011: Part 3'
 description: "_From Up on Poppy Hill_, _Take This Waltz_, _The Awakening_, _Warriors of the Rainbow_, _Tahrir 2011_"
 date: 2011-09-22
+tags:
+  - tiff
+  - movies
 ---
 
 # 10. [_From Up on Poppy Hill_](http://www.imdb.com/title/tt1798188/)

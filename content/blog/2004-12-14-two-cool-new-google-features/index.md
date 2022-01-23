@@ -3,6 +3,8 @@ layout: post
 title: Two cool new Google features
 description: Por
 date: 2004-12-14
+tags:
+  - tech
 ---
 
 The first is [Google Suggest](http://www.google.ca/webhp?complete=1&hl=en), which is basically a server-side AutoComplete feature. As you type a search query, it pops up a list of commonly searched keywords which match what you've already typed. Amazingly, when you type "por", the first thing in the list is "porsche", instead of... well, you know.  

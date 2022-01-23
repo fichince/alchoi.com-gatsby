@@ -3,6 +3,8 @@ layout: post
 title: Lifestyles of the Fake Rich
 description: In case of emergency
 date: 2008-05-24
+tags:
+  - fun
 ---
 
 Got the statement from my corporate credit card. It made me feel good.  

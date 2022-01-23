@@ -3,7 +3,10 @@ layout: post
 title:  "Review: _It_ By Stephen King"
 description: "So good it's bad?"
 date: 2017-05-29
+tags:
+  - books
 ---
+
 Is there such a thing as "so good it's bad"?
 
 We're all familiar with the inverse, usually in the form of a movie which is so clumsy and inept that it becomes entertaining, in a "laughing at you, not with you" kind of way. What would the opposite--"so good it's bad"--mean? I believe that I had this experience when I read the legendary It by Stephen King.

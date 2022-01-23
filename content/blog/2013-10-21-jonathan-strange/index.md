@@ -3,6 +3,8 @@ layout: post
 title:  "Review: _Jonathan Strange & Mr Norrell_ by Susanna Clarke"
 description: "Truly one of my favourite books"
 date: 2013-10-21
+tags:
+  - books
 ---
 
 I last read _Jonathan Strange & Mr Norrell_ in the fall of 2006. The book is somehow linked to memories from that time in my life, so that when I think about the book, it reminds me of events that happened to me, as much as the events that happened in the story itself. For instance, I remember having to buy two copies of it, because one of them was ruined in the rain.[^1] I remember being woken up by a certain hit pop song[^2] on a hotel alarm clock’s radio, and upon hitting the snooze, noticing the book on the nightstand, and wanting to use the snooze interval to squeeze in one more chapter before heading out to work. I remember eliciting a bemused and maybe condescending comment from a desk clerk at a video store[^3]. And I remember, finally, finishing the book on a plane in flight, and then spending the rest of the flight missing it.[^4]

@@ -3,6 +3,9 @@ layout: post
 title: Apparently, I don't like the music that I like
 description: Pandora
 date: 2005-11-19
+tags:
+  - music
+  - tech
 ---
 
 Let me explain. There’s this online music player called [Pandora](http://pandora.com/), which is supposed to “read your mind” and play music that you would like. You start off by giving it the name of an artist or song that you like, and it will play things that it deems “similar.” The people behind Pandora analyzed a whole bunch of songs and assigned traits to them using a lot of pretentious musical terms, like “subtle syncopation” and “minor key harmonic tonalities”. (They call this the “Music Genome Project.”) The player uses these traits and builds a playlist of other songs or artists that share the same properties.

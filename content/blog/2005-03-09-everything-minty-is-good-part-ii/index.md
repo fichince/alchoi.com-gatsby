@@ -3,6 +3,8 @@ layout: post
 title: Everything minty is good, part II
 description: Refreshing
 date: 2005-03-09
+tags:
+  - fun
 ---
 
 So there's this new "flavour" of Tylenol called Tylenol "Cool Burst". You know what it is? It's minty Tylenol. _Minty!_ **_Tylenol!!_**  

@@ -3,6 +3,9 @@ layout: post
 title: 'TIFF 2011: Part 2'
 description: "_Ten Year_, _Trishna_, _I'm Carolyn Parker_, _The Sword Identity_, _Machine Gun Preacher_"
 date: 2011-09-21
+tags:
+  - tiff
+  - movies
 ---
 
 # 15. [_Ten Year_](http://www.imdb.com/title/tt1715873/)

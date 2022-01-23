@@ -3,6 +3,9 @@ layout: post
 title: 'TIFF 2009: _The Warrior and the Wolf_'
 description: Communication barrier
 date: 2009-09-15
+tags:
+  - tiff
+  - movies
 ---
   
 [_The Warrior and the Wolf_](http://www.imdb.com/title/tt1300169/) was a Chinese historical drama. The titular warrior hides out in a village during a break in the battle and meets a woman in the village and they develop a relationship. "The wolf" could metaphorically refer to any number of things and is open to interpretation, so I won't give anything away by discussing it.  

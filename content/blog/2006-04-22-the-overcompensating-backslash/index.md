@@ -3,6 +3,9 @@ layout: post
 title: The Overcompensating Backslash
 description: Mean geeks
 date: 2006-04-22
+tags:
+  - fun
+  - tech
 ---
 
 You hear a lot of news reporters and journalists on TV and radio referring to website URLs these days. I have noticed, not without ire, that many of them make the mistake of saying "backslash" when they really mean "slash", e.g. "Visit our site at http-colon-backslash-backslash www-dot-ctv-dot-ca backslash news."  

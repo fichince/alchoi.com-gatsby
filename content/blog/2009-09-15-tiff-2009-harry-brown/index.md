@@ -3,6 +3,9 @@ layout: post
 title: 'TIFF 2009: _Harry Brown_'
 description: You failed to maintain our weapon, son
 date: 2009-09-15
+tags:
+  - tiff
+  - movies
 ---
 
 [Michael Caine](http://www.imdb.com/name/nm0000323/) plays [_Harry Brown_](http://www.imdb.com/title/tt1289406/), a retired widower living in a bad neighbourhood overrun by drug gangs. And then his friend gets hurt. And then he starts killing gang members. And then the cops get involved. That's what I felt like when I was watching this movie... it was just a sequence of plot events. I never got a sense of the characters' motivations and justifications for their actions. The characters were only there to move the plot along, and I didn't care about them at all.  

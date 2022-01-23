@@ -3,6 +3,9 @@ layout: post
 title: 'TIFF 2009: _City of Life and Death_'
 description: Horror and style
 date: 2009-09-22
+tags: 
+  - tiff
+  - movies
 ---
 
 When I think about [City of Life and Death](http://www.imdb.com/title/tt1124052/), two scenes stand out in my mind. In the first scene, the camera follows a Japanese soldier as he walks up a hill and looks down. The camera continues to move upward to show what the soldier sees on the field below: the bodies of Chinese POWs that the Japanese troops have just killed in a mass execution. The second stand-out scene shows a firing squad execution of a Chinese man, softly focused in the background, while a Japanese soldier's face is shown in the foreground. The composition of the frame is phenomenal.  

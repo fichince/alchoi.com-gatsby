@@ -3,6 +3,8 @@ layout: post
 title: Adventures in the Elevator
 description: Poor Buddy
 date: 2008-01-04
+tags:
+  - fun
 ---
 
 One of the effects of living in an apartment is that you spend a lot of time in the elevator. Of course, most of the time, you're just in there by yourself, staring at the wall. Or, if there's someone else in there with you, it's an awkward experience at best. As George Carlin put it, "there's nothing to do in an elevator except not look at the other guy." But, once in a while, the elevator will be the site of a bizarre happenstance.  

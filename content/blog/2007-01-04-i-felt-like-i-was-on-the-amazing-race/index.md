@@ -3,6 +3,8 @@ layout: post
 title: I felt like I was on The Amazing Race
 description: Temporary airplane friends
 date: 2007-01-04
+tags:
+  - fun
 ---
 
 Of all the days to be travelling, and of all the airports to catch a flight connection, I had to choose January 1st, and Denver International, respectively. January 1st, when everybody is flying to get home after the holidays. Denver, where a blizzard had halted the entire city just days before. Lesson learned: never try to make a flight connection where the arrival-departure gap is only 1 hour. 

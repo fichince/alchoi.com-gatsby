@@ -3,6 +3,8 @@ layout: post
 title: Favourite Albums of the 2000's
 description: Bandwagon jumping
 date: 2010-01-20
+tags:
+  - music
 ---
 
 Seems like everyone is doing this, so I'm jumping on the bandwagon. Here goes...
