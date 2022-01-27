@@ -24,6 +24,7 @@ export const query = graphql`
           description
           date(formatString: "MMMM D, YYYY")
           title
+          tags
         }
       }
     }

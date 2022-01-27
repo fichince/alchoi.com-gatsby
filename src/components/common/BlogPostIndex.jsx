@@ -3,10 +3,11 @@ import { Link } from 'gatsby';
 import Layout from '../Layout';
 import MD from './MD';
 import TagChooser from './TagChooser';
+import Tags from './Tags';
 
 const BlogCard = (props) => {
   const { node: { slug, frontmatter } } = props;
-  const { title, description, date } = frontmatter;
+  const { title, description, date, tags } = frontmatter;
 
   return (
     <div className="rounded-md
@@ -26,6 +27,9 @@ const BlogCard = (props) => {
           <span className="ml-5 min-w-fit">{date}</span>
         </div>
       </Link>
+      <div className="mt-2">
+        <Tags tags={tags} />
+      </div>
     </div>
   );
 };

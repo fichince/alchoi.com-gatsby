@@ -3,11 +3,12 @@ import { graphql } from 'gatsby';
 import Layout from '../../components/Layout';
 import MD from '../../components/common/MD';
 import { MDXRenderer } from 'gatsby-plugin-mdx';
+import Tags from '../../components/common/Tags';
 
 
 const BlogPost = (props) => {
   const { data: { mdx: { frontmatter, body } } } = props;
-  const { title, description, date } = frontmatter;
+  const { title, description, date, tags } = frontmatter;
 
   return (
     <Layout pageTitle={title} titleBar={title}>
@@ -21,6 +22,9 @@ const BlogPost = (props) => {
           </div>
           <div className="uppercase font-display text-accent text-lg">
             {date}
+          </div>
+          <div className="mt-2 flex justify-center lg:justify-end">
+            <Tags tags={tags} />
           </div>
         </div>
 
@@ -46,6 +50,7 @@ export const query = graphql`
         title
         description
         date(formatString: "MMMM D, YYYY")
+        tags
       }
       body
     }
