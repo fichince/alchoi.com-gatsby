@@ -71,7 +71,7 @@ const Layout = ({ pageTitle, titleBar, children, ...rest }) => {
   return (
     <div className="m-auto">
       <Helmet>
-        <body className="bg-gradient-to-br from-primary to-secondary min-h-screen" /> 
+        <body className="min-h-screen" /> 
         <title>{ titleBarText ? `${titleBarText} | ` : ''}{title}</title>
       </Helmet>
 
