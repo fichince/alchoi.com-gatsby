@@ -3,6 +3,9 @@ layout: post
 title: Bracelet Blackmail
 description: Tales of Commerce from the Far East
 date: 2022-01-14
+tags:
+  - fun
+  - books
 ---
 
 _I wrote this piece circa 2012, after I took a trip to several countries in Asia. I was never able to get it published, so I figured I might as well post it here. I was reminded of it while reading a book by Jan Wong called_ [Beijing Confidential: A Tale of Comrades Lost and Found in the New Forbidden City][1]. _This piece feels to me like a less polished, smaller version of Wong's book, down to the slightly huffy subtitle._

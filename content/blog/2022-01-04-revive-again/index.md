@@ -3,6 +3,8 @@ layout: post
 title:  "Revive (again)"
 description: Hello again! (again)
 date: 2022-01-04
+tags:
+  - fun
 ---
 
 It's kind of embarassing, looking back at this [previous post][1]. It sounded like I was arriving somewhere, where in fact, those "big changes in my life" just kept rolling. I got married, got a dog, moved house, changed jobs (twice). Where I've landed is a place where I've seen my creative output trail off, enough to miss it, enough to want to return to it.

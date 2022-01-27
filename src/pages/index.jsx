@@ -33,7 +33,7 @@ const Home = (props) => {
         items-center
         mx-auto w-2/3 sm:justify-evenly mt-4 
         text-xl sm:text-2xl 
-        text-red-800 font-display">
+        text-pop font-display">
         <div className="hover:scale-110">
           <Link to="/blog">Blog</Link>
         </div>
@@ -43,7 +43,7 @@ const Home = (props) => {
       </div>
 
       <div className="flex mt-4 w-2/3 mx-auto justify-evenly
-        text-red-800 text-2xl sm:text-4xl">
+        text-pop text-2xl sm:text-4xl">
         <a href="https://github.com/fichince" target="_blank" rel="noreferrer noopener"
           className="hover:scale-110">
           <FontAwesomeIcon icon={faGithubSquare} />

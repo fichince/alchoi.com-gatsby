@@ -3,6 +3,9 @@ layout: post
 title: "TIFF 2012: Part 5"
 description: "_Men at Lunch_, _The Central Park Five_, _Thale_, _Tai Chi 0_"
 date: 2012-09-18
+tags:
+  - movies
+  - tiff
 ---
 
 # [_Men at Lunch_](http://www.imdb.com/title/tt2373324/) & [_The Central Park Five_](http://www.imdb.com/title/tt2380247/)

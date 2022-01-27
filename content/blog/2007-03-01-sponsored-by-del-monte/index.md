@@ -3,6 +3,8 @@ layout: post
 title: Sponsored by Del Monte
 description: Bananas
 date: 2007-03-01
+tags:
+  - fun
 ---
 
 My buddy made an [interesting post](http://logicalwaste.blogspot.com/2007/02/str8-acting-omg-wtf.html "interesting post") about the perception of "straight acting" in the gay community. It just goes to show how every group has its own prejudices.  

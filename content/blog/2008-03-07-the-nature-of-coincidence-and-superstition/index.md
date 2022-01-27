@@ -3,6 +3,8 @@ layout: post
 title: The Nature of Coincidence and Superstition
 description: Dreams and predictions
 date: 2008-03-07
+tags:
+  - fun
 ---
 
 Before you start thinking that this is a post about a dream I had, be assured that I'm trying to illustrate a point. I know that dream stories are never as interesting as the dreamer thinks they are, simply due to the fact that it never really happened. If you're the one who had the dream, it may have been a fascinating and wonderful experience for _you_, but to the listener (or reader), you might as well be making up some random shit. (["I had a dream that a hamburger was eating _me!_"](https://www.youtube.com/watch?v=_nDdoJX1KxM))  

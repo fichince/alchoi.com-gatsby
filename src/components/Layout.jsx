@@ -71,7 +71,7 @@ const Layout = ({ pageTitle, titleBar, children, ...rest }) => {
   return (
     <div className="m-auto">
       <Helmet>
-        <body className="bg-gradient-to-br from-primary to-secondary min-h-screen" /> 
+        <body className="min-h-screen" /> 
         <title>{ titleBarText ? `${titleBarText} | ` : ''}{title}</title>
       </Helmet>
 
@@ -90,7 +90,7 @@ const Layout = ({ pageTitle, titleBar, children, ...rest }) => {
           <div className="sm:flex sm:items-stretch sm:flex-no-shrink sm:flex-grow">
             <div className="sm:flex sm:items-stretch sm:justify-end ml-auto">
             { NAV.map((n, i) => (
-              <NavLink to={n.to} name={n.name} />
+              <NavLink key={i} to={n.to} name={n.name} />
             ))}
             </div>
           </div>

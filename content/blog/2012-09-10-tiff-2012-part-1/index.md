@@ -3,6 +3,9 @@ layout: post
 title: "TIFF 2012: Part 1"
 description: "_The Deep_, _Shanghai_, _9.79*_"
 date: 2012-09-10
+tags:
+  - tiff
+  - movies
 ---
 
 # [_The Deep_](http://www.imdb.com/title/tt1764275/)

@@ -14,8 +14,9 @@ module.exports = {
       colors: {
         primary: '#C6CAB9',
         secondary: '#CCCBCD',
-        tertiary: colors.gray[300],
+        tertiary: '#FBFBF2',
         accent: '#1C2635',
+        pop: colors.red[800],
       },
       fontFamily: {
         display: ['Special Elite', 'serif'],

@@ -3,6 +3,9 @@ layout: post
 title: "TIFF 2012: Part 3"
 description: "_Blancanieves_, _Byzantium_, _No_"
 date: 2012-09-13
+tags:
+  - tiff
+  - movies
 ---
 
 # [_Blancanieves_](http://www.imdb.com/title/tt1854513/)

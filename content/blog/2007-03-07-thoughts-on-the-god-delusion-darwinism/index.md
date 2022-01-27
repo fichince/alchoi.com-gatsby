@@ -3,6 +3,8 @@ layout: post
 title: 'Thoughts on _The God Delusion:_ "Darwinism"'
 description: Be fair to Watson
 date: 2007-03-07
+tags:
+  - books
 ---
 
 I was reading [_The God Delusion_](https://www.chapters.indigo.ca/en-ca/books/the-god-delusion/9780618918249-item.html) by Richard Dawkins, and something occurred to me. While I worked my way through the section about the evolution vs. intelligent design debate (which any book about atheism should address), the word "Darwinism" kept popping up. Every time the word was used, I became more and more conscious of it; something about it bothered me.  

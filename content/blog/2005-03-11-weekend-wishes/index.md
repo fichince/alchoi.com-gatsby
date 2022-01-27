@@ -3,6 +3,9 @@ layout: post
 title: Weekend Wishes
 description: You too
 date: 2005-03-11
+tags:
+  - books
+  - fun
 ---
 
 This is one of my favourite passages from George Carlin's newest book, _When Will Jesus Bring The Pork Chops?_:  

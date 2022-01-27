@@ -3,6 +3,8 @@ layout: post
 title: 'MY APARTMENT!!! or: Google SketchUp evaluation and review'
 description: Thinly disguised
 date: 2007-10-21
+tags:
+  - fun
 ---
 
 _N.B.: I don't normally post personal items on this blog, so this will be thinly disguised as a technology review article._  

@@ -3,6 +3,8 @@ layout: post
 title:  "Review: _Beijing Confidential_ by Jan Wong"
 description: A Tale of Self-Discovery
 date: 2022-01-20
+tags:
+ - books
 ---
 
 As a foreign exchange student at Beijing University during the Cultural Revolution, Jan Wong ratted out a classmate who expressed a treasonous desire to leave the country for the West. The classmate disappeared and Wong, driven by guilt, embarked on a mission to find her and make amends.

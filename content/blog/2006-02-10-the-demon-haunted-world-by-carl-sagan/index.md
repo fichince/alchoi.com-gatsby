@@ -3,6 +3,8 @@ layout: post
 title: _The Demon-Haunted World_ by Carl Sagan
 description: Dragon in the garage
 date: 2006-02-10
+tags:
+  - books
 ---
 
 I've been reading a pretty interesting book called _The Demon-Haunted World_ by Carl Sagan (author of [Contact](http://thegooseunderstands.blogspot.com/2006/01/contact.html)). The book is basically an extended diatribe against pseudoscience or "junk science." Sagan addresses such issues as alien abduction, UFOs, psychic healers, psychic mediums, etc. He believes that the general public is antipathetic towards true science, and instead embraces superstition and the supernatural as legitimate forms of scientific knowledge. Here's an excerpt, which is also printed on the back cover:  

@@ -3,6 +3,9 @@ layout: post
 title: 'TIFF 2010: _Confessions_'
 description: Like poetry
 date: 2010-09-24
+tags:
+  - tiff
+  - movies
 ---
 
 [_Confessions_](https://www.imdb.com/title/tt1590089/) kicks off with an extended monologue given by a schoolteacher whose daughter has drowned in a swimming pool. She gradually and coldly reveals that students in her class are responsible for her child’s death. The students act like typical apathetic teenagers, laughing and texting through the whole thing. As I was watching this, I wondered where the film was going to lead. Would it keep the structure of the opening sequence and have the teacher tell the story in flashback? Or would it switch to a more conventional route and show the consequences of the girl’s death? As it turns out, I could never have guessed where it was going to go.  

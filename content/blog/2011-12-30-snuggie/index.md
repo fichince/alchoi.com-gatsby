@@ -3,6 +3,8 @@ layout: post
 title: "Great Moments in Snuggie History"
 description: "..."
 date: 2011-12-30
+tags:
+  - fun
 ---
 
 ![snuggie1](./snuggie1.jpg)

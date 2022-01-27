@@ -3,6 +3,9 @@ layout: post
 title: 'TIFF 2010: _The Hunter_'
 description: Stoic performance
 date: 2010-09-22
+tags:
+  - tiff
+  - movies
 ---
 
 The [promotional](http://www.the-match-factory.com/films/items/the-hunter.html) [materials](http://www.the-match-factory.com/films/items/the-hunter.html?file=assets/downloads-public/films/t/the-hunter/the-hunter-pressbook.pdf) for [_The Hunter_](https://www.imdb.com/title/tt1190072/) emphasize the events that occur in the latter half of the film. Without going into spoilers, I can say that this is a reasonable decision from the marketers because the second half does sound pretty exciting. However, I think to focus on the thriller-esque plot points is slightly misleading and sets up some undue expectations. After reading the official synopsis, and especially after the hard guitar rock accompaniment of the opening credit sequence, I was ready for an energetic crime film, and that’s not what _The Hunter_ delivers.

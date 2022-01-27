@@ -3,6 +3,8 @@ layout: post
 title: 'Review: _Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts_ by Carol Tavris'
 description: Cognitive dissonance
 date: 2011-10-04
+tags:
+  - books
 ---
 
 Before reading this book, I had been aware of the ideas of cognitive dissonance and self-justification, having encountered them in some day-to-day personal interactions, mostly related to money. (“X is good, and I want it, but I don’t want to spend so much money on X... therefore, X is no good and I don’t want it!”)  

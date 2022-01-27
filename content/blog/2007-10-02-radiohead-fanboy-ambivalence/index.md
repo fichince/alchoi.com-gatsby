@@ -3,6 +3,8 @@ layout: post
 title: Radiohead fanboy ambivalence
 description: In Rainbows
 date: 2007-10-02
+tags:
+  - music
 ---
 
 So Radiohead announced the release of a new album called "[In Rainbows](http://www.inrainbows.com/)", coming out October 10th. I don't think I've ever seen an album announcement so close to its release date. Usually there's months of anticipation before a release, but this time they've decided to spring this on us on short notice. Like "Hey, new album next week!" Apparently, they're able to do this because they're no longer signed to a record contract; this is basically an "indie" release.  

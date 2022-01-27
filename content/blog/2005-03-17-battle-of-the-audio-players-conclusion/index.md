@@ -3,6 +3,9 @@ layout: post
 title: Battle of the audio players, conclusion
 description: Ordeal
 date: 2005-03-17
+tags:
+  - tech
+  - music
 ---
 
 As [promised](../2005-03-12-battle-of-the-audio-players), I did a bit of research to find out what it would take to get LongPlayer to work together with amaroK. It turns out that amaroK supports a DCOP interface. DCOP is a protocol shared by KDE applications that allows you to control them via the command line. For example, you can add songs to the amaroK playlist by executing the following shell command:  
