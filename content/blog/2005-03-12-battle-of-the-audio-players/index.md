@@ -12,7 +12,7 @@ I've arrived at a bit of a crossroads concerning audio player software, and whic
   
 I've narrowed it down to two candidates:  
   
-XMMS + LongPlayer  
+## XMMS + LongPlayer  
   
 [XMMS](http://xmms.org/) is pretty much the standard audio player on Linux (it's basically a clone of Winamp). However, its shuffle functionality (as with most audio players) is pretty rudimentary. In particular, it is susceptible to the so-called [birthday paradox](http://en.wikipedia.org/wiki/Birthday_paradox). I have no desire to start explaining probability theory here, but essentially, this means that it does not take long for the same song to be played twice, which quickly becomes annoying.  
   
@@ -20,7 +20,7 @@ XMMS + LongPlayer
   
 The combination of XMMS and LongPlayer does a very good job of randomizing my playlist. On average, it takes about 4 weeks for a song to be played again (according to LongPlayer's statistics).  
   
-amaroK  
+## amaroK  
   
 [amaroK](http://amarok.kde.org/) takes a completely different approach. This is the most full-featured music player I've seen. It places a strong emphasis on organizing a collection of music, and can group your tracks based on genre, artist, year, etc. It also uses this information to make suggestions as you're playing something; for example, it gives you a list of albums by the same artist, and other artists of a similar genre.  
   
