@@ -1143,6 +1143,11 @@
   resolved "https://registry.yarnpkg.com/@fontsource/crimson-pro/-/crimson-pro-4.5.1.tgz#87afe7cb66169fca6b4cc0c7fbe6b36b49c5c13c"
   integrity sha512-VrMaU0vMJ/n4P5qFpHVdY+iy1Y6CN+tfJBVuxCVqHtZjWOxbwExflhil2Y4namJjl7Ezg5Yy3yNJzpo8spMRvQ==
 
+"@fontsource/mononoki@^4.5.1":
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/@fontsource/mononoki/-/mononoki-4.5.1.tgz#f05ca33c1009cb4a1678699be5f0159525740400"
+  integrity sha512-mHgcecwAXHYBNmREX0/nsQ8+X66Oh/l4zvuK3+6pwfNQQXFin9xEU+RhusAXBb364UcBD35kUE7pb+wpbIcA8w==
+
 "@fontsource/special-elite@^4.5.0":
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/@fontsource/special-elite/-/special-elite-4.5.0.tgz#9519912981e44f069d0e5fc29a9637be72ecad93"

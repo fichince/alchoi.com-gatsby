@@ -6,6 +6,7 @@
   "author": "Albert Choi",
   "dependencies": {
     "@fontsource/crimson-pro": "^4.5.1",
+    "@fontsource/mononoki": "^4.5.1",
     "@fontsource/special-elite": "^4.5.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",

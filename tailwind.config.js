@@ -21,6 +21,7 @@ module.exports = {
       fontFamily: {
         display: ['Special Elite', 'serif'],
         body: ['Crimson Pro', 'serif'],
+        mono: ['Mononoki', 'ui-monospace'],
       },
       typography: ({ theme }) => ({
         neutral: {
@@ -28,6 +29,16 @@ module.exports = {
             '--tw-prose-hr': theme('colors.accent'),
             '--tw-prose-quote-borders': theme('colors.accent'),
             '--tw-prose-bullets': theme('colors.accent'),
+          }
+        },
+        DEFAULT: {
+          css: {
+            'code::before': {
+              content: 'none',
+            },
+            'code::after': {
+              content: 'none',
+            },
           }
         }
       }),
