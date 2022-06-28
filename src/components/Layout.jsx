@@ -11,8 +11,12 @@ const NAV = [
     to: '/blog'
   },
   {
-    name: 'Writing',
-    to: '/writing'
+    name: 'Code',
+    to: '/code'
+  },
+  {
+    name: 'Prose',
+    to: '/prose'
   },
 ];
 

@@ -38,7 +38,10 @@ const Home = (props) => {
           <Link to="/blog">Blog</Link>
         </div>
         <div className="hover:scale-110">
-          <Link to="/writing">Writing</Link>
+          <Link to="/prose">Prose</Link>
+        </div>
+        <div className="hover:scale-110">
+          <Link to="/code">Code</Link>
         </div>
       </div>
 

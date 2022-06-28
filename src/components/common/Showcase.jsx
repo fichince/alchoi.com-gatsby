@@ -1,0 +1,49 @@
+import React from 'react';
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
+import MD from './MD';
+
+const ShowcaseItem = (props) => {
+  const { item: { title, description, image, url } } = props;
+
+  return (
+    <article className="rounded-md
+      shadow-lg
+      m-3 p-6 w-full sm:w-3/4
+      justify-self-center self-center
+      flex flex-col sm:flex-row 
+      items-center bg-tertiary
+      hover:scale-y-105 transition-all">
+      <div className="mb-3 sm:mb-0 sm:mr-5">
+        <a href={url} rel="noopener noreferrer" target="_blank">
+          <GatsbyImage image={getImage(image)}  />
+        </a>
+      </div>
+
+      <div className="text-center flex-grow">
+        <div className="text-xl sm:text-2xl lg:text-3xl mb-1 font-display">
+          <a href={url} rel="noopener noreferrer" target="_blank">
+            {title}
+          </a>
+        </div>
+
+        <div className="text-sm">
+          <MD md={description} />
+        </div>
+      </div>
+    </article>
+  );
+
+};
+
+const Showcase = (props) => {
+  const { items } = props;
+
+  return (
+    <section className="w-full sm:w-10/12 mx-auto
+      flex flex-col">
+      { items.map((item) => <ShowcaseItem key={item.id} item={item} />) }
+    </section>
+  );
+};
+
+export default Showcase;
